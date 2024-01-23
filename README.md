@@ -1,0 +1,3 @@
+- **Description**: A program simulating the behavior of the shell pipe '|' command.
+- **Language**: C
+- **How to run**: run make to compile, run executable as ./pipex &lt;infile&gt; &lt;commands...&gt; &lt;outfile&gt;
